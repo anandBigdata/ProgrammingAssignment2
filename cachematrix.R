@@ -1,4 +1,5 @@
-## makeCacheMatrix function takes a matrix as input and creates a special matrix whose inverse can be cached. ## The input to makeCacheMatrix must be a square matrix.
+## makeCacheMatrix function takes a matrix as input and creates a special matrix whose inverse can be cached.
+## The input to makeCacheMatrix must be a square matrix.
 
 ## Let us say that we want to find the inverse of matrix matrix (c(1,2,3,4),2,2) and cache it. 
 ## Step 1 - get makeCacheMatrix by running: t <- makeCacheMatrix(c(1,2,3,4),2,2))
